@@ -1,0 +1,30 @@
+{
+  "name": "cache-quest",
+  "version": "0.1.0",
+  "author": "Amos Barreto <amos.barreto@gmail.com>",
+  "description": "a simple drop-in cache for request",
+  "contributors": [
+    {
+      "name": "Amos Barreto",
+      "email": "amos.barreto@gmail.com"
+    }
+  ],
+  "main": "./lib/cache-quest",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/squamos/cache-quest.git"
+  },
+  "keywords": [
+    "cache",
+    "http",
+    "request"
+  ],
+  "dependencies" : {
+    "request" :  ">=2.11.1",
+    "uberclass" : ">=1.0.1"
+  },
+  "analyze": false,
+  "engines": {
+    "node": ">=0.8"
+  }
+}
