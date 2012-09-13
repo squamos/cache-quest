@@ -1,4 +1,4 @@
-cachequest
+cache-quest
 ==========
 
-Simple cache for request
+Simple drop-in cache for request
