@@ -1,6 +1,6 @@
 {
   "name": "cache-quest",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Amos Barreto <amos.barreto@gmail.com>",
   "description": "a simple drop-in cache for request",
   "contributors": [
