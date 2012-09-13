@@ -1,18 +1,18 @@
 {
   "name": "cache-quest",
   "version": "0.2.0",
-  "author": "Amos Barreto <amos.barreto@gmail.com>",
+  "author": "Uber <dev@uber.com>",
   "description": "a simple drop-in cache for request",
   "contributors": [
     {
       "name": "Amos Barreto",
-      "email": "amos.barreto@gmail.com"
+      "email": "amos@uber.com"
     }
   ],
   "main": "./lib/cache-quest",
   "repository": {
     "type": "git",
-    "url": "https://github.com/squamos/cache-quest.git"
+    "url": "https://github.com/uber/cache-quest.git"
   },
   "keywords": [
     "cache",
